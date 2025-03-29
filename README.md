@@ -25,7 +25,7 @@ Before running the script, ensure you have:
 
   Clone this repository:
 
-    git clone https://github.com/yourusername/bug-bounty-tools.git &&
+    git clone https://github.com/dineshpathro90/setup_bug_bounty.git &&
     cd bug-bounty-tools
   Make the script executable:
       
